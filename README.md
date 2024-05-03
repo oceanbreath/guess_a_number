@@ -1,1 +1,1 @@
-# guess_a_number
+# Game: Guess a number.
